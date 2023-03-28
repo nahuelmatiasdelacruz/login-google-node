@@ -1,2 +1,2 @@
-# WebServer + REST Server
-REST Server básico para mis futuras aplicaciones ```npm install```
+# Template para proyectos con Google Sign In
+REST Server con Google SignIn
